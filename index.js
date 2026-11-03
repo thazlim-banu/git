@@ -1,0 +1,1 @@
+console.log("welcome to the thazlim self learrning git course project")
